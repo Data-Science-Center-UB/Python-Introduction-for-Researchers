@@ -4,11 +4,10 @@ This repository provides a self-learning notebook series for starting to use Pyt
 
 The repository consists of:
 
-/Notebooks (Jupyter notebooks including unsolved exercises that reinforce learning) <br>
+/Notebooks_Exercises (Jupyter notebooks including unsolved exercises that reinforce learning) <br>
 /Notebooks_Solutions (Jupyter notebooks including exercises with solutions) <br>
 /Images (images loaded in the Jupyter notebooks including the Python mind map) <br>
 /Data (datasets loaded in the Jupyter notebooks) <br>
-Data_References.txt (provides references for the datasets included in the /Data folder) <br>
 
 <img src="./Images/PythonMindmap.png" style="width: 1400px;">
 
