@@ -1,8 +1,10 @@
 pandas
 numpy
 openpyxl
+py7zr
 matplotlib
 xarray
 statsmodels
 scikit-learn
 scipy
+
