@@ -1,8 +1,0 @@
-pandas
-TextBlob
-matplotlib
-Counter
-stopwords
-nltk
-WordCloud
-spacy
