@@ -1,3 +1,0 @@
-pandas
-openpyxl
-beautifulsoup4
